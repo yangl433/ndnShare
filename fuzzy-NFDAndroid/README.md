@@ -1,4 +1,4 @@
-ndnShare
+fuzzy-NFDAndroid
 ==============
 
 
