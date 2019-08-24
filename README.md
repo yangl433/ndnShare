@@ -52,7 +52,7 @@ Alternatively, you can use precompiled versions (currently, available for Crysta
     tar zx --strip-components 1 -C openssl -f openssl.tar.gz
     rm openssl.tar.gz
     
-Replace it with the document under fuzzy-NFDAndroid in the path below：
+After the above steps are completed, replace with the document under fuzzy-NFDAndroid in the path below：
     
     NFD-android/app/src/main/jni/NFD/daemon/
 
